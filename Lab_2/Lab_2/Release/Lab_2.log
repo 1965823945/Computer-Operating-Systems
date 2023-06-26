@@ -1,0 +1,19 @@
+﻿  Main.cpp
+D:\IDM_download\OperatingSystems-main\OperatingSystems-main\lab1\Lab_2\Lab_2\Main.cpp(89,23): warning C4129: “I”: 不可识别的字符转义序列
+D:\IDM_download\OperatingSystems-main\OperatingSystems-main\lab1\Lab_2\Lab_2\Main.cpp(89,23): warning C4129: “O”: 不可识别的字符转义序列
+D:\IDM_download\OperatingSystems-main\OperatingSystems-main\lab1\Lab_2\Lab_2\Main.cpp(89,23): warning C4129: “l”: 不可识别的字符转义序列
+D:\IDM_download\OperatingSystems-main\OperatingSystems-main\lab1\Lab_2\Lab_2\Main.cpp(89,23): warning C4129: “L”: 不可识别的字符转义序列
+D:\IDM_download\OperatingSystems-main\OperatingSystems-main\lab1\Lab_2\Lab_2\Main.cpp(89,23): warning C4129: “D”: 不可识别的字符转义序列
+D:\IDM_download\OperatingSystems-main\OperatingSystems-main\lab1\Lab_2\Lab_2\Main.cpp(89,23): warning C4129: “C”: 不可识别的字符转义序列
+D:\IDM_download\OperatingSystems-main\OperatingSystems-main\lab1\Lab_2\Lab_2\Main.cpp(100,23): warning C4129: “I”: 不可识别的字符转义序列
+D:\IDM_download\OperatingSystems-main\OperatingSystems-main\lab1\Lab_2\Lab_2\Main.cpp(100,23): warning C4129: “O”: 不可识别的字符转义序列
+D:\IDM_download\OperatingSystems-main\OperatingSystems-main\lab1\Lab_2\Lab_2\Main.cpp(100,23): warning C4129: “l”: 不可识别的字符转义序列
+D:\IDM_download\OperatingSystems-main\OperatingSystems-main\lab1\Lab_2\Lab_2\Main.cpp(100,23): warning C4129: “L”: 不可识别的字符转义序列
+D:\IDM_download\OperatingSystems-main\OperatingSystems-main\lab1\Lab_2\Lab_2\Main.cpp(100,23): warning C4129: “D”: 不可识别的字符转义序列
+D:\IDM_download\OperatingSystems-main\OperatingSystems-main\lab1\Lab_2\Lab_2\Main.cpp(100,23): warning C4129: “R”: 不可识别的字符转义序列
+  正在生成代码
+  3 of 461 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Lab_2.vcxproj -> D:\IDM_download\OperatingSystems-main\OperatingSystems-main\lab1\Lab_2\Release\Lab_2.exe

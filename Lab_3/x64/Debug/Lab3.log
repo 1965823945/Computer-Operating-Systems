@@ -1,0 +1,4 @@
+﻿  main.c
+D:\IDM_download\OperatingSystems-main\OperatingSystems-main\Lab3\main.c(58,10): warning C4133: “函数”: 从“void (__cdecl *)(LPVOID)”到“LPTHREAD_START_ROUTINE”的类型不兼容
+D:\IDM_download\OperatingSystems-main\OperatingSystems-main\Lab3\main.c(59,12): warning C4312: “类型强制转换”: 从“int”转换到更大的“void *”
+  Lab3.vcxproj -> D:\IDM_download\OperatingSystems-main\OperatingSystems-main\Lab3\x64\Debug\Lab3.exe

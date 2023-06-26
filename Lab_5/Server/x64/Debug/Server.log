@@ -1,0 +1,4 @@
+﻿  Server.cpp
+D:\cao zuo xi tong\Lab_5\Server\Server.cpp(89): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+D:\cao zuo xi tong\Lab_5\Server\Server.cpp(118): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+  Server.vcxproj -> D:\cao zuo xi tong\Lab_5\x64\Debug\Server.exe
